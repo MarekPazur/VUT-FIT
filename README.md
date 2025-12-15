@@ -62,7 +62,7 @@ Tento repozitář slouží jako archiv vypracovaných školních projektů.
 ## 2025/2026
 
 ### IIS - Information Systems
--tbd - 31.5/30
+-tbd - 30/30 + 1.5 bonus
 
 ### IMP - Microprocessors and Embedded Systems
 -tbd - 14/14
