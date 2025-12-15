@@ -55,9 +55,6 @@ Tento repozitář slouží jako archiv vypracovaných školních projektů.
 - ELF (Project 1) - 13/15
 - Kernel Panic Crash Analysis (Project 2) - 15/15
 
-### ICP - The C++ Programming Language
--tbd
-
 ### ITS - Testing and Dynamic Analysis
 - Test Scenarios (Project 1) - 19/20
 - Test Set (Project 2) - 17.1/20
