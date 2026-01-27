@@ -62,13 +62,13 @@ Tento repozitář slouží jako archiv vypracovaných školních projektů.
 ## 2025/2026
 
 ### IIS - Information Systems
--tbd - 30/30 + 1.5 bonus
+- 30/30 + 1.5 bonus
 
 ### IMP - Microprocessors and Embedded Systems
--tbd - 14/14
+- 14/14
 
 ### IMS - Modelling and Simulation
--tbd
+- 20/20
 
 ### ISA - Network Applications and Network Administration
--tbd - 20/20
+- 20/20
